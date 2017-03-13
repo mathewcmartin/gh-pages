@@ -1,0 +1,47 @@
+
+h1 {
+  display: block;
+  text-align: center;
+  font-family: Cambria;
+  background-color: #999;
+}
+body {
+  font-family: Cambria;
+  display: float;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 1.5vw;
+}
+p.bdy {
+  display: block;
+  position: relative;
+  margin-left: auto;
+  text-align: left;
+}
+img {
+  max-width: 10%;
+  display: block;
+  position: relative;
+}
+ul {
+  display: float;
+  background-color: inherit;
+  position: relative;
+  }
+p.ega {
+  position: relative;
+}
+section {
+  position: relative;
+  padding: 10px;
+  border-color: #999;
+  border-top: 5px;
+  border-right: 5px;
+  border-bottom: 20px;
+  border-left: 20px;
+}
+footer {
+  display: block;
+  position: relative;
+  text-align: center;
+}
